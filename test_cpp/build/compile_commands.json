@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kmatsuura/test_cpp/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/cpp_cmake.dir/main.cpp.o -c /home/kmatsuura/test_cpp/main.cpp",
+  "file": "/home/kmatsuura/test_cpp/main.cpp"
+}
+]

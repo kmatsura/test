@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{何故Beamerを使うのか？}{3}{0}{1}
+\beamer@sectionintoc {2}{具体例}{5}{0}{2}
